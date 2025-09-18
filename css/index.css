@@ -122,8 +122,8 @@ a:hover::after {
     background-color: transparent;
     position: absolute;
     z-index: 5;
-   
     padding: 10px;
+    
 }
 
 h1 {
@@ -131,6 +131,7 @@ h1 {
     font-size: 70px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: bold;
+    margin-top: 40px;
 }
 
 .con {
