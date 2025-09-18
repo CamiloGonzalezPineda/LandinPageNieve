@@ -510,7 +510,6 @@ main {
         align-items: center;
         width: 100%;
         height: 200px;
-        margin-top: 20px;
         text-align: center;
         font-size: 40px;
     }
@@ -519,7 +518,6 @@ main {
         justify-content: center;
         align-items: center;
         flex-direction: row;
-        gap: 40px;
         width: 100%;
         height: auto;
     }
@@ -586,6 +584,7 @@ main {
 
     }
 /*-----------------Servicios-------------------*/
+
     main {
         display: flex;
         align-items: center;
@@ -597,7 +596,7 @@ main {
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
-        gap: 20px;
+       
     }
 
     .ser {
@@ -605,8 +604,7 @@ main {
         justify-content: center;
         align-items: center;
         width: 100%;
-        height: 200px;
-        margin-top: 20px;
+        height: 20px;
         text-align: center;
         font-size: 40px;
     }
@@ -617,7 +615,6 @@ main {
         justify-content: center;
         align-items: center;
         flex-direction: row;
-        gap: 40px;
         width: 90%;
         height: auto;
     }
