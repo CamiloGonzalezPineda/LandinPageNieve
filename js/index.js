@@ -69,6 +69,6 @@ const obser= new IntersectionObserver((entrada)=>{
     }else{
         entre.target.classList.remove('apare')
     }
-},{threshold:0.1}
+},{threshold:0.01}
 )
 obser.observe(formm)
